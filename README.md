@@ -2,4 +2,4 @@
 A short novel for NaNoWriMo 2018.
 
 ## Table of Contents
-[Thunder](chapters/Thunder.md)
+Chapter 0 - [Untitled](chapters/Untitled.md)
