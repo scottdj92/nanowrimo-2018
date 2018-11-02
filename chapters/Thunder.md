@@ -1,3 +1,12 @@
+---
+previous:
+    url: "/nanowrimo-2018/chapters/Untitled.html"
+    title: "Untitled"
+next:
+    url: "/nanowrimo-2018/chapters/The-Intersection.html"
+    title: "The Intersection"
+---
+
 # Thunder
 
 I stood in the rain, listening for the crack of thunder to pass the time. I look down and I see the life leak from me; the blood of those that sought to destroy me lay strewn about. I look back up towards the sky, hoping to see a respite from the despair that so greatly enveloped me. I could not get any reprieve from my own deeds. Truly, it was death of my own making.

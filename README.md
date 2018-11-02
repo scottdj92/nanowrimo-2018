@@ -5,3 +5,4 @@ A short novel for NaNoWriMo 2018.
 * Chapter 0 - [Untitled](chapters/Untitled.md)
 * Chapter 1 - [Thunder](chapters/Thunder.md)
 * Chapter 2 - [The Intersection](chapters/The-Intersection.md)
+* Chapter 3 - [The Behemoth](chapters/Behemoth.md)

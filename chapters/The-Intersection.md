@@ -1,3 +1,13 @@
+---
+previous:
+    url: "/nanowrimo-2018/chapters/Thunder.html"
+    title: "Thunder"
+
+next:
+    url: "/nanowrimo-2018/chapters/The-Behemoth.html"
+    title: "The Behemoth"
+---
+
 # The Intersection
 
 Being in a motel isn't my favorite place to be, but I felt safe from The Behemoth for now. The last attack had lasted nearly weeks, and I knew its resources were spent for now. Carrying the medical kit into the room, I slid as quietly as my shredded muscles and joints would allow. Taking off my ragged clothes and looking at myself in the mirror really drove home how awful the past few weeks were.
