@@ -1,6 +1,7 @@
 ---
 next:
     url: "/nanowrimo-2018/chapters/Thunder.html"
+    title: "Thunder"
 ---
 
 # Untitled Diary entry
