@@ -3,20 +3,20 @@
 
 @import "{{site.theme}}";
 
-nav {
+.pagination {
     font-size: 14px;
     display: block;
     overflow: hidden;
     width: auto;
 }
 
-nav a {
+.pagination a {
     display: block;
     width: 50%;
     float: left;
     margin: 1em 0;
 }
 
-nav .next {
+.pagination .next {
     text-align: right;
 }
