@@ -1,3 +1,8 @@
+---
+next:
+    url: "/nanowrimo-2018/chapters/Thunder.html"
+---
+
 # Untitled Diary entry
 
 _September 15th, 1790_
