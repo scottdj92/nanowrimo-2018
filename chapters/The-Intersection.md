@@ -4,7 +4,7 @@ previous:
     title: "Thunder"
 
 next:
-    url: "/nanowrimo-2018/chapters/The-Behemoth.html"
+    url: "/nanowrimo-2018/chapters/Behemoth.html"
     title: "The Behemoth"
 ---
 
