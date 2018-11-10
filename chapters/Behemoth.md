@@ -2,6 +2,10 @@
 previous:
     url: "/nanowrimo-2018/chapters/The-Intersection.html"
     title: "The Intersection"
+
+next:
+    url: "/nanowrimo-2018/chapters/Brawl.html"
+    title: "Brawl"
 ---
 
 # The Behemoth
